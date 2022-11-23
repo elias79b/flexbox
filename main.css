@@ -1,0 +1,26 @@
+body{
+    font-size: 16px;
+}
+
+.container{
+    background-color: #8395a7;
+    border: 4px solid #222f3e;
+    /* height: 400px; */
+}
+
+.container > div{
+    font-size: 1.4em;
+    color: wheat;
+    padding: 10px;
+    text-align: center;
+}
+
+.search{
+    background-color: #01a3a4;
+}
+.home{
+    background-color: #ff9f43;
+}
+.login{
+    background-color: #f369e0;
+}

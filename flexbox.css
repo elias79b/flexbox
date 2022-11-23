@@ -1,0 +1,28 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    /* justify-content: flex-start; */
+    /* align-items: center; */
+    /* flex-wrap: wrap; */
+
+
+}
+
+.search{
+    /* margin-right: auto;  */
+    /* flex: 2; */
+    /* align-self: flex-start; */
+    /* width: 300; */
+
+}
+.home{
+    /* margin-left: auto; */
+    /* flex: 1; */
+    /* align-self: center; */
+    /* width: 300; */
+}
+.login{
+    /* flex: 1; */
+    /* align-self: flex-end; */
+    /* width: 300; */
+}
